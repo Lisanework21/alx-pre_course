@@ -1,1 +1,1 @@
-git project is too easy.
+Git project is owsem with git pull updating.
